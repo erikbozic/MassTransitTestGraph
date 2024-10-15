@@ -12,3 +12,6 @@ Actual:
 
 ![Graph](./masstransit_test_graph.png)
 
+
+Possible expected:
+![expected.png](./expected.png)
